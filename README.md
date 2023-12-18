@@ -45,7 +45,7 @@
 
 ## Screenshots
 
-![Home Page]([https://github.com/ishtiyak98/inessa/assets/56845656/df865f53-2ccf-4ced-960a-77468de6660b](https://github.com/Shahriar-Syeed/academia/blob/main/screenshot/Screenshot_4.png)https://github.com/Shahriar-Syeed/academia/blob/main/screenshot/Screenshot_4.png)
+![Home Page](https://github.com/Shahriar-Syeed/academia/blob/main/screenshot/Screenshot_4.png)https://github.com/Shahriar-Syeed/academia/blob/main/screenshot/Screenshot_4.png)
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;Home Page</p>
 
