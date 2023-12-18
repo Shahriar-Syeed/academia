@@ -45,7 +45,7 @@
 
 ## Screenshots
 
-![login](https://github.com/ishtiyak98/inessa/assets/56845656/df865f53-2ccf-4ced-960a-77468de6660b)
+![Home Page]([https://github.com/ishtiyak98/inessa/assets/56845656/df865f53-2ccf-4ced-960a-77468de6660b](https://github.com/Shahriar-Syeed/academia/blob/main/screenshot/Screenshot_4.png)https://github.com/Shahriar-Syeed/academia/blob/main/screenshot/Screenshot_4.png)
 
-<center>Login Page</center>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;Home Page</p>
 
