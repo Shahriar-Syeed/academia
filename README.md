@@ -46,8 +46,8 @@
 ## Screenshots
 
 <table>
-<dd>
+
   ![Home Page](https://github.com/Shahriar-Syeed/academia/blob/main/screenshot/Screenshot_4.png)
-</dd>
+
 <caption>&emsp;&emsp;&emsp;&emsp;Home Page</caption>
 </table>
