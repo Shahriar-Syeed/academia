@@ -1,0 +1,55 @@
+.hero-section.other-hero{
+  min-height: auto;
+  height: 700px;
+  background-position: top center;
+  background-attachment: fixed;
+}
+.hero-section.other-hero .page-hero-content {
+  min-height: auto;
+  height: 700px;
+}
+.hero-section.other-hero .page-hero-content .page-map {
+  font-size: 14px;
+  margin-bottom: 10px;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: rgba(255, 255, 255, 0.8);
+}
+.other-hero .page-hero-content .page-map span a {
+  color: rgba(255, 255, 255, 0.8);
+}
+.other-hero .page-hero-content .page-map span a:hover {
+  color: var(--primary-color);
+}
+.other-hero .page-hero-content .main-title {
+  font-weight: 400;
+  color: #fff;
+  font-size: 70px;
+  line-height: 1.2;
+}
+.page-map span i,
+.page-map span a i{
+  font-size: 12px;
+}
+.course-page .page-link{
+  color: #000;
+  padding:0;
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  border-radius: 4px;
+  border: 1px solid #e6e6e6;
+  background: transparent;
+}
+.course-page .page-link:hover{
+  background: var(--primary-color);
+  color:#fff;
+}
+.course-page .active > .page-link{
+  background-color: var(--primary-color);
+  color:#fff;
+}
+.course-page ul{
+  margin-bottom:10px;
+}
