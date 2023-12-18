@@ -47,5 +47,5 @@
 
 ![Home Page](https://github.com/Shahriar-Syeed/academia/blob/main/screenshot/Screenshot_4.png)
 
-<p>&emsp;&emsp;&emsp;&emsp;Home Page</p>
+<caption>&emsp;&emsp;&emsp;&emsp;Home Page</caption>
 
